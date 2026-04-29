@@ -1,6 +1,5 @@
-# Code-for-Ischemic-Preconditioning.
+# Code-for-Protective effects of Ischemic-Preconditioning.
 This repository contains the raw data, code, and all analysis results from the included studies.
- #  Protective Effects of Ischemic Preconditioning combined Acute Exercise On human body
 # === need package ===
 install.packages("pacman")
 pacman::p_load(

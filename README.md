@@ -1,5 +1,6 @@
 # R Code-for-Protective effects of Ischemic-Preconditioning.
 This repository contains the raw data, code, and all analysis results from the included studies. All the informantion was created by Yilin (Email:202310300066@stu.tjus.edu.cn).
+Note: Among the datasets for each outcome measure, only the pre-test values for delayed onset muscle soreness (DOMS) appear as a mixture of available and unavailable versions. Therefore, when merging them, the code and data can be used directly. To verify whether this assumption is reasonable, please replace all pre-test data in the DOMS dataset with 0 before conducting the analysis.
 # === need package ===
 install.packages("pacman")
 pacman::p_load(

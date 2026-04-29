@@ -1,4 +1,4 @@
-# Code-for-Protective effects of Ischemic-Preconditioning.
+# R Code-for-Protective effects of Ischemic-Preconditioning.
 This repository contains the raw data, code, and all analysis results from the included studies. All the informantion was created by Yilin (Email:202310300066@stu.tjus.edu.cn).
 # === need package ===
 install.packages("pacman")

@@ -1,4 +1,4 @@
-# Code-for-Ischemic-Preconditioning-on-Post-Exercise-Injury-Biomarkers-DOMS-and-Endothelial-Function.
+# Code-for-Ischemic-Preconditioning.
 This repository contains the raw data, code, and all analysis results from the included studies.
  #  Protective Effects of Ischemic Preconditioning combined Acute Exercise On human body
 # === need package ===
